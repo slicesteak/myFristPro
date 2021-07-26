@@ -1,0 +1,2 @@
+D:\my_visual_studio_project\myFristProject_onGithub\combineVS\Debug\combineVS.exe
+D:\my_visual_studio_project\myFristProject_onGithub\combineVS\Debug\combineVS.pdb
